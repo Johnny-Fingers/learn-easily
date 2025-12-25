@@ -238,7 +238,7 @@ Users can update their personal information, change their email address, update 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Johnny-Fingers/learn-easily.git>
 cd learn_easily_app
 ```
 
